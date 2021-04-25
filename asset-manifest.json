@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Country-wise-COVID-data/static/css/main.14494f40.chunk.css",
+    "main.js": "/Country-wise-COVID-data/static/js/main.8bface73.chunk.js",
+    "main.js.map": "/Country-wise-COVID-data/static/js/main.8bface73.chunk.js.map",
+    "runtime-main.js": "/Country-wise-COVID-data/static/js/runtime-main.f098c711.js",
+    "runtime-main.js.map": "/Country-wise-COVID-data/static/js/runtime-main.f098c711.js.map",
+    "static/js/2.6906e412.chunk.js": "/Country-wise-COVID-data/static/js/2.6906e412.chunk.js",
+    "static/js/2.6906e412.chunk.js.map": "/Country-wise-COVID-data/static/js/2.6906e412.chunk.js.map",
+    "static/js/3.04851b0c.chunk.js": "/Country-wise-COVID-data/static/js/3.04851b0c.chunk.js",
+    "static/js/3.04851b0c.chunk.js.map": "/Country-wise-COVID-data/static/js/3.04851b0c.chunk.js.map",
+    "index.html": "/Country-wise-COVID-data/index.html",
+    "static/css/main.14494f40.chunk.css.map": "/Country-wise-COVID-data/static/css/main.14494f40.chunk.css.map",
+    "static/js/2.6906e412.chunk.js.LICENSE.txt": "/Country-wise-COVID-data/static/js/2.6906e412.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f098c711.js",
+    "static/js/2.6906e412.chunk.js",
+    "static/css/main.14494f40.chunk.css",
+    "static/js/main.8bface73.chunk.js"
+  ]
+}
